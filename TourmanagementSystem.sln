@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourmanagementSystem", "Tou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminApp", "AdminApp\AdminApp.csproj", "{15886CCF-C978-44F8-B251-2BC7150CF21E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityProvider", "IdentityProvider\IdentityProvider.csproj", "{370A94C6-243D-4F37-998D-1FD977E69647}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{15886CCF-C978-44F8-B251-2BC7150CF21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15886CCF-C978-44F8-B251-2BC7150CF21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15886CCF-C978-44F8-B251-2BC7150CF21E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370A94C6-243D-4F37-998D-1FD977E69647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370A94C6-243D-4F37-998D-1FD977E69647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370A94C6-243D-4F37-998D-1FD977E69647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370A94C6-243D-4F37-998D-1FD977E69647}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
