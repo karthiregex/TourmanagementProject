@@ -8,5 +8,10 @@ namespace IdentityProvider
 {
     public class Class1
     {
+        //Santhya
+        public void ValidatePassword()
+        {
+
+        }
     }
 }
